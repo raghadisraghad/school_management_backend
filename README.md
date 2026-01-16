@@ -8,8 +8,8 @@ This is the **backend API** for a school communication platform where students, 
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/raghadisraghad/school_management_backend.git
-   cd school_management_backend
+   git clone https://github.com/raghadisraghad/school-club-management-backend.git
+   cd school-club-management-backend
    ```
 
 2. **Install dependencies:**
